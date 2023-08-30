@@ -1,18 +1,18 @@
 # Swiggy Recommendation Model
-**Swiggy is an Indian online food ordering and delivery platform founded in 2014. It’s headquarter is located in Bangalore and operates in more than 500 Indian cities.**
+** Swiggy is an Indian online food ordering and delivery platform founded in 2014. Its headquarter is located in Bangalore and operates in more than 500 Indian cities. **
 
-**Besides food delivery, the platform also provides on-demand grocery deliveries under the name Instamart, and same-day package delivery service called Swiggy Genie.**
+** Besides food delivery, the platform also provides on-demand grocery deliveries under the name Instamart, and a same-day package delivery service called Swiggy Genie. **
 
 # <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
 | Files| Description |
 | -------------   | ------------- |
 | **Swiggy Web Scraping**  | This folder contains the ipynb code of the Web scrapping.  |
-| **Swiggy Data** | This file contain the  scraped data in Excel format. |
+| **Swiggy Data** | This file contains the  scraped data in Excel format. |
 | **Data Cleaning & Model.ipynb**  | This folder contains the ipynb code of the Data cleaning & determining model performance.  |
-| **Swiggy Cleaned Data csv**  | This file contain the  cleaned data in CSV format. |
-| **Swiggy.py**  | This folder contains the code of making the webpage that is both backend and frontend .  |
-| **Swiggy recomendation model ppt**  | This file contain the presentation on this project using power point.  |
+| **Swiggy Cleaned Data csv**  | This file contains the  cleaned data in CSV format. |
+| **Swiggy.py**  | This folder contains the code for making the webpage that is both backend and frontend.  |
+| **Swiggy recommendation model ppt**  | This file contains the presentation on this project using PowerPoint.  |
 
 <br>
 
@@ -22,9 +22,9 @@
 
 2 **Data Cleaning and Preprocessing**: Performed data cleaning and preprocessing using Python's data manipulation libraries, such as NumPy and Pandas. This step involved handling missing values, correcting data inconsistencies, and ensuring the data is in a clean and usable form.
 
-3 **ML Performance Matrix**: Used Skikit libraries in python to evaluate the performance of the model and get the best fitted model for prediction.
+3 **ML Performance Matrix**: Used Skikit libraries in Python to evaluate the performance of the model and get the best-fitted model for prediction.
 
-4 **Web page Creation**: Created an interactive Webpage in python, using the transformed data, to visualize various output. The Webpage will provide idea about the resturant and cusines the resturats are offering.
+4 **Web page Creation**: Created an interactive web page in Python, using the transformed data, to visualize various outputs. The Webpage will provide ideas about the restaurants and cuisines the restaurants are offering.
     
 <br>
 
