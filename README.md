@@ -1,7 +1,6 @@
 # Swiggy Recommendation Model
 ** Swiggy is an Indian online food ordering and delivery platform founded in 2014. Its headquarter is located in Bangalore and operates in more than 500 Indian cities. **
 
-** Besides food delivery, the platform also provides on-demand grocery deliveries under the name Instamart, and a same-day package delivery service called Swiggy Genie. **
 
 # <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
