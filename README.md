@@ -57,7 +57,7 @@ Besides food delivery, the platform also provides on-demand grocery deliveries u
 
 2 Struggle with updates in real-time, like new user preferences or changing item availability.
 
-   o Adapt and update recommendations in real time.
+   o Adapt and update recommendations in real-time.
 
 
 3 Handle sensitive user data, so we need to prioritize privacy.
