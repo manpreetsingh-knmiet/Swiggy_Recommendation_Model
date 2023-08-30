@@ -31,9 +31,8 @@ Besides food delivery, the platform also provides on-demand grocery deliveries u
 
 # INPUT
 
-![image](Webpage images/Model_front_page.png).
-![image](Webpage images/Model_first_page.png).
-
+![image](https://github.com/manpreetsingh-knmiet/Swiggy_Recommendation_Model/blob/81275a7baf8823f6ad504c3065b8385de46bfdb9/Webpage%20images/Model_front_page.jpg).
+![image](https://github.com/manpreetsingh-knmiet/Swiggy_Recommendation_Model/blob/81275a7baf8823f6ad504c3065b8385de46bfdb9/Webpage%20images/Model_first_page.jpg).
 
 # FINDINGS
 
