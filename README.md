@@ -1,5 +1,5 @@
 # Swiggy Recommendation Model
-** Swiggy is an Indian online food ordering and delivery platform founded in 2014. Its headquarter is located in Bangalore and operates in more than 500 Indian cities. **
+**Swiggy is an Indian online food ordering and delivery platform founded in 2014. Its headquarter is located in Bangalore and operates in more than 500 Indian cities.**
 
 
 # <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
